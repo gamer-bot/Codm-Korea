@@ -5,7 +5,7 @@
     "what's new": "- new tab added\n- Fix touch issues\n- added key system"
   },
   "64bit": {
-    "version number": "2.0.2", 
+    "version number": "2.0.3", 
     "libname": "libScorpion_64.so",
     "what's new": "- New features added \n- Added Skin Hacks \n- Bug fixes"
   }
